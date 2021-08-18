@@ -1,0 +1,40 @@
+ 
+ 
+.banner{
+    color:white;
+    background-color: black;
+      /* padding top and right */
+    padding: 20px 10px;
+    margin: 0%;
+    text-align: center;
+}
+ 
+.Header-container{
+    color: white;
+    background-color: orange;
+    height: 8%;
+    margin: 0%;
+    text-align: center;
+}
+  .first-table{
+     display: flex;
+     justify-content: center;
+     
+  }
+ .second-table{
+    display: flex;
+    justify-content: center;
+
+ }
+ .third-table{
+    display: flex;
+    justify-content: center;
+   
+ }
+.footer{
+    /* padding top and right */
+    padding: 20px 10px;  
+    margin-top: 10px;
+    background-color: red;
+}
+ 
